@@ -6,3 +6,5 @@ Project uses libaries from stb:
 \
 \
 Source -> https://github.com/nothings/stb
+
+# Input files must be in root directory
